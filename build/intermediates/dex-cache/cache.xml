@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/classes-8539511205cbce4aeaab58c3c4d61f6bf0ccb150.jar" />
+    </item>
+    <item
+        jar="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/libs/internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.0-9e19529f1039749d2e2311f7fd0c390c7b8314e0.jar" />
+    </item>
+    <item
+        jar="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/classes-5bd36b92a9b1e09d7953046dced73c979d900798.jar" />
+    </item>
+    <item
+        jar="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/classes-84408d89f58f2a46a15b6ce9ed7c3eaaaaede87e.jar" />
+    </item>
+    <item
+        jar="/home/liulou/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.0/support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.0-6b1ce88bd18b4a61b9f157bc87fa8a537b4c9db5.jar" />
+    </item>
+    <item
+        jar="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/classes-04fc13017cd540e26cd00eeb8cab26f688dd7018.jar" />
+    </item>
+    <item
+        jar="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/classes-339c44560a4c5175527c8b0e0928744502cce4fc.jar" />
+    </item>
+    <item
+        jar="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="/home/liulou/AndroidStudioProjects/demo4popupwindow/app/build/intermediates/pre-dexed/debug/classes-cbf162ea2948e46d5773b9003149d11fe554407b.jar" />
+    </item>
+
+</items>
